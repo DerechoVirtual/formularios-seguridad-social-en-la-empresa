@@ -1,0 +1,25 @@
+{
+  "name": "formularios-seguridad-social-en-la-empresa",
+  "version": "1.1.0",
+  "description": "Seguridad Social en la empresa, incapacidad y accidentes de trabajo: 27 formularios revisados el 25-11-2026, cada uno convertido en una skill que lo rellena paso a paso. Para la Seguridad Social desde la empresa: incapacidad temporal y permanente en la relación laboral, accidentes de trabajo y enfermedad profesional, responsabilidad empresarial, FOGASA, certificaciones de descubiertos y comunicaciones con la mutua y la Tesorería. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+  "author": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "displayName": "Seguridad Social en la empresa, incapacidad y accidentes de trabajo · España",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://jurisprudenciator.lexiaipro.org/politica-de-privacidad",
+  "supportUrl": "https://jurisprudenciator.lexiaipro.org/incidencias",
+  "homepage": "https://jurisprudenciator.lexiaipro.org",
+  "termsOfServiceUrl": "https://jurisprudenciator.lexiaipro.org/terminos-y-condiciones",
+  "keywords": [
+    "jurisprudenciator",
+    "legal",
+    "españa",
+    "formularios",
+    "modelos",
+    "laboral",
+    "seguridad-social-y-accidentes"
+  ],
+  "repository": "https://github.com/DerechoVirtual/formularios-seguridad-social-en-la-empresa"
+}
